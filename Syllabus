@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syllabus Overview</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #444;
+        }
+        .subject {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background: #fafafa;
+        }
+        h2 {
+            color: #555;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin: 5px 0;
+        }
+        .exam-date {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Syllabus Overview</h1>
+
+        <div class="subject">
+            <h2>Subject 1: English</h2>
+            <ul>
+                <li><strong>Mock Test 2</strong></li>
+                <li><strong>First Flight Book:</strong> Chapters 8, 9</li>
+                <li><strong>Poems:</strong> 8, 9, 10</li>
+                <li><strong>Footprints:</strong> Chapters 7, 8, 9</li>
+                <li><strong>Grammar:</strong> Reported Speech, Determiners</li>
+                <li><strong>Writing:</strong> Analytical Paragraph</li>
+                <li class="exam-date"><strong>Exam Date:</strong> 18/11/2024</li>
+            </ul>
+        </div>
+
+        <div class="subject">
+            <h2>Subject 2: Hindi</h2>
+            <ul>
+                <li><strong>Shitij Kavyakhand:</strong> Chapters 5, 6</li>
+                <li><strong>Gadyakhand:</strong> Chapters 5, 6</li>
+                <li><strong>Kritika:</strong> Chapter 3</li>
+                <li><strong>Grammar:</strong> Vachya, Patr, Sandesh, Savvravt</li>
+                <li class="exam-date"><strong>Exam Date:</strong> 19/11/2024</li>
+            </ul>
+        </div>
+
+        <div class="subject">
+            <h2>Subject 3: Maths</h2>
+            <ul>
+                <li><strong>Chapters:</strong> 4, 5, 13</li>
+                <li class="exam-date"><strong>Exam Date:</strong> 20/11/2024</li>
+            </ul>
+        </div>
+
+        <div class="subject">
+            <h2>Subject 4: Science</h2>
+            <ul>
+                <li><strong>Physics:</strong> Chapter 12</li>
+                <li><strong>Chemistry:</strong> Chapter 4</li>
+                <li><strong>Biology:</strong> Chapter 7</li>
+                <li class="exam-date"><strong>Exam Date:</strong> 21/11/2024</li>
+            </ul>
+        </div>
+
+        <div class="subject">
+            <h2>Subject 5: Social Science (SST)</h2>
+            <ul>
+                <li><strong>History:</strong> Chapters 3, 4</li>
+                <li><strong>Civics:</strong> Chapter 6</li>
+                <li><strong>Geography:</strong> Chapter 5</li>
+                <li><strong>Economics:</strong> Chapter 3</li>
+                <li class="exam-date"><strong>Exam Date:</strong> 22/11/2024</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
